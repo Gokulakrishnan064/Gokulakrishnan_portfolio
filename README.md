@@ -8,7 +8,7 @@
 
 A modern, responsive portfolio showcasing my skills, projects, certifications, and achievements.
 
-🌐 **Live Demo:** https://your-portfolio-link.com
+🌐 **Live Demo:** https://gokulakrishnan-portfolio-ten.vercel.app/
 
 </div>
 
